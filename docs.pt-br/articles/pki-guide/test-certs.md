@@ -64,4 +64,4 @@ Ou se estiver usando Java, altere o arquivo `PadesSignatureController.java`:
 signatureStarter.setSecurityContext(new SecurityContext("803517ad-3bbc-4169-b085-60053a8f6dbf"));
 ```
 
-Todos os [projetos de exemplo](https://github.com/LacunaSoftware/PkiSuiteSamples) contém comentários indicando como habilitar a confiança na ICP de testes da Lacuna.
+Todos os [projetos de exemplo](https://github.com/LacunaSoftware/PkiSuiteSamples) contém comentários indicando como habilitar a confiança na ICP de testes da Lacuna.j
